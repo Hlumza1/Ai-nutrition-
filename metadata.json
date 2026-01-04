@@ -1,0 +1,5 @@
+{
+  "name": "NutriTrack AI",
+  "description": "An intelligent food energy and nutrition tracker powered by Gemini. Search for any food to get instant nutritional breakdowns, macro analysis, and personalized health insights.",
+  "requestFramePermissions": []
+}
